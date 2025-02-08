@@ -2,7 +2,7 @@
 
 #define SSD1357_DRIVER
 
-#define TFT_WIDTH  64
+#define TFT_WIDTH  128
 #define TFT_HEIGHT 64
 
 #define TFT_RGB_ORDER TFT_RGB
